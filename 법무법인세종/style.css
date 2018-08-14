@@ -1,0 +1,35 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    list-style-type: none;
+}
+
+.header {
+    position: fixed;
+    width: 100%;
+    height: 104px;
+    background-color: #fff;
+}
+
+.test {
+    height: 5000px;
+    background-color: #333;
+}
+.header > .layout > a > h1 {
+    float: left;
+    height: 100%;
+    cursor: pointer;
+}
+
+.header svg {
+    width: 260px;
+    height: 100%;
+    vertical-align: middle;
+    line-height: 100%;
+}
+
+.layout {
+    position: relative;
+    width: 1248px;
+    height: 100%;
+}
