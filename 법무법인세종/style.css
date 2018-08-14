@@ -18,7 +18,6 @@
 .header > .layout > a > h1 {
     float: left;
     height: 100%;
-    cursor: pointer;
 }
 
 .header svg {
